@@ -1,0 +1,15 @@
+{
+    "name": "leeler/test-composer",
+    "authors": [
+        {
+            "name": "leeler",
+            "email": "690447824.ll@gmail.com"
+        }
+    ],
+    "require": {},
+   "autoload": {
+        "psr-4": {
+            "Tests\\": "src/"
+        }
+    } 
+}
